@@ -24,7 +24,7 @@ export const botConfig = {
     activities: [
       {
         // Text users will see (example: "Playing /help | Titan Bot").
-        name: "Moderating art-specifications.gl.joinmc.link",
+        name: "Art-specifications.gl.joinmc.link:25565",
         // Activity type number (0 = Playing).
         type: 0,
       },
